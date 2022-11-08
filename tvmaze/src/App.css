@@ -4,7 +4,8 @@
   justify-items: center;
   align-items: center;
   padding: 30px;
-  background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(./images/background.jpg.jpg);
+  background-image: url(./images/background.jpg.jpg);
+  
 }
 
 .App-logo {
