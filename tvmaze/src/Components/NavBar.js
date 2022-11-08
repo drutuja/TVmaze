@@ -8,7 +8,7 @@ function NavBar() {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container-fluid">
             <div className="container">
-            <img src="./images./background.jpg.jpg"></img>
+            <img src="C:\Users\abhij\Downloads\img.jpg"></img>
               <h1 className="navbar-brand text-success" >
                 TV Maze Search App
               </h1>
