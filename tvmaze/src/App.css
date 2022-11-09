@@ -1,17 +1,13 @@
 .App {
   text-align: center;
-  display: inline-block;
+  display: block;
   justify-items: center;
   align-items: center;
-  padding: 30px;
-
-  
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -29,7 +25,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  text-align: center;
 }
 
 .App-link {

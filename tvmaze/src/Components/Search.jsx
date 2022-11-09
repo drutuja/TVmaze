@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import Actor from './Actors';
 import Show from './Show';
-
 const Search = () => {
 
     const [actor, setActor] = useState(false);
