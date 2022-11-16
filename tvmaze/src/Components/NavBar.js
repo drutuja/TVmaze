@@ -7,7 +7,7 @@ function NavBar() {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container-fluid">
             <div className="container">
-              <h1 className="navbar-brand text-success">TV Maze Search App</h1>
+              <h1 className="navbar-brand text-success" >TV MAZE SEARCH APP</h1>
             </div>
           </div>
         </nav>
