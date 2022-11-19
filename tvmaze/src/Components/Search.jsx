@@ -23,9 +23,8 @@ const Search = () => {
                    
                     <div className="row mt-3">
                         <div className="col-md-7">
-                            <input type="radio" name="movie" onChange={() => setActorFilter()} /> BY ACTORS  
-                            
-                            <input type="radio" name="movie" onChange={() => setShowFilter()} className="ms-3" /> BY SHOWS 
+                            <input type="radio" name="movie" onChange={() => setActorFilter()} /> By Actor
+                            <input type="radio" name="movie" onChange={() => setShowFilter()} className="ms-3" /> By Shows
                         </div>
                     </div>
                 </div>
@@ -37,4 +36,4 @@ const Search = () => {
     )
 }
 
-export default Search
+export default Search;
